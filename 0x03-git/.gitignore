@@ -1,2 +1,3 @@
-$git add up_to_data
-$git pull
+# Ignore emacs files 
+ *.~ 
+ ~/*
